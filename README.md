@@ -31,3 +31,4 @@
 
 ## Demo Screenshots ##
 ![](demo_pictures_1.png)
+![](demo_pictures_2.png)
