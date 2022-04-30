@@ -15,8 +15,13 @@
 > 10. Easy to user configure used. [易于用户配置使用]
 
 ## Usage: ##
+### Windows ####
 > 1. .\vgw.exe --ip=192.168.0.40 --ngw=192.168.0.1 --mask=255.255.255.0
 > 2. .\vgw.exe --ip=192.168.0.40 --ngw=192.168.0.1 --mask=255.255.255.0 --mac=30:fc:68:88:b4:a9
+
+### Linux ####
+> 1. ./vgw --ip=192.168.0.40 --ngw=192.168.0.1 --mask=255.255.255.0
+> 2. ./vgw --ip=192.168.0.40 --ngw=192.168.0.1 --mask=255.255.255.0 --mac=30:fc:68:88:b4:a9
 
 ## Command-Argument ##
 > 1. --ip=VGW bridge IP address, which is the Gateway server IP address. [VGW网关IP地址，即网关服务器的IP地址]
