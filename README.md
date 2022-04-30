@@ -11,7 +11,7 @@
 > 6. Overlapping Multiple-Networks. [重叠多重网络]
 > 7. LAN Default Gateway Route server. [局域网默认网关路由服务器]
 > 8. Ethernet bridge. [以太网桥接]
-> 9. Perfect compatibility with WinSPI global agents such as "PaperAirplane TCP/IP". [完美兼容WINSPI全局代理，例如“PaperAirplane TCP/IP”]
+> 9. Perfect compatibility with WinSPI global agents such as "PaperAirplane TCP/IP NSP/LSP". [完美兼容WinSPI全局代理，例如“PaperAirplane TCP/IP NSP/LSP”]
 > 10. Easy to user configure used. [易于用户配置使用]
 
 ## Usage: ##
